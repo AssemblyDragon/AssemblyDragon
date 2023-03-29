@@ -6,6 +6,7 @@
 <p>
 I am Tech Enthusiast and my interest lies in the domains of AI/ML and Game development.
 </p>
+<br>
 <p>
 Programming Languages:-
 <ol>
@@ -13,6 +14,15 @@ Programming Languages:-
    <li>C++       -   |Basic|</li>
    <li>HTML/CSS  -   |Basic|</li>
 </ol>
+</p>
+<br>
+<p>
+   Currently Learning:-
+   <ol>
+      <li>Machine Learning</li>
+      <li>Unreal Engine</li>
+      <li>C++</li>
+   </ol>
 </p>
 <div>
 
