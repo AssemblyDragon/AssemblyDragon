@@ -4,7 +4,7 @@
 <br> 
 <div align="left">
 <p>
-I am Tech Enthusiast and my interest lies in the domains of AI/ML and Game development.
+Being a Tech Enthusiast, my interest and passion lies in the domains of AI/ML and Game development. Apart from these two domains which I am majorly interested in, I am also passionate about Competitive Coding and Cyber Security.
 </p>
 <br>
 <p>
