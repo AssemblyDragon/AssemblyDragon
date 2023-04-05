@@ -8,7 +8,7 @@ I am Tech Enthusiast and my interest lies in the domains of AI/ML and Game devel
 </p>
 <br>
 <p>
-Programming Languages:-
+Knowledge of Programming Languages:-
 <ol>
    <li>Python    -   |Intermediate|</li>
    <li>C++       -   |Basic|</li>
